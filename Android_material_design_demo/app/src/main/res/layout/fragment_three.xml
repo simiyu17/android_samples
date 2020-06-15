@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:paddingTop="10dp"
+    tools:context="action.myrecords.com.uiexample.ThreeFragment">
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:drawableLeft="@drawable/btn"
+        android:drawablePadding="6dp"
+        android:text="Another UI"
+        android:textColor="#000"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
